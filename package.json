@@ -1,0 +1,27 @@
+{
+  "name": "duboviy.github.io",
+  "version": "0.0.1",
+  "description": "Personal page",
+  "main": "js/app.js",
+  "scripts": {
+    "browserify": "browserify index.js | uglifyjs > bundle.js",
+    "build": "npm run browserify "
+  },
+  "author": "Eugene Duboviy",
+  "dependencies": {
+    "react": "~0.13.3",
+    "react-router": "^1.0.0-rc1"
+  },
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "~11.2.0",
+    "reactify": "~0.14.0",
+    "uglify-js": "~2.4.15"
+  },
+  "browserify": {
+    "transform": [
+      "babelify",
+      "reactify"
+    ]
+  }
+}

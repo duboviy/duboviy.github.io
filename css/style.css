@@ -1,0 +1,32 @@
+@import url("semantic-ui/semantic.min.css");
+@import url("semantic-ui/components/icon.min.css");
+@import url("fonts/roboto.css");
+
+.page-content {
+    margin: 5% auto;
+    min-width: 300px;
+    width: 20%;
+}
+
+.main-img {
+    width: 300px !important;
+    height: 300px !important;
+}
+
+.name-panel {
+    margin-top: 14px;
+}
+
+.name-panel h1 {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 100 !important;
+}
+
+.social-panel {
+    margin-top: 26px;
+}
+
+.social-panel .social-button {
+    display: block;
+    text-align: center;
+}
