@@ -4,8 +4,7 @@
 
 https://duboviy.github.io/
 
-Please take a quick look on link below :)
-https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.brv728gvg
+Please take a quick look on this article [how-it-feels-to-learn-javascript-in-2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.brv728gvg) :)
 
 [![forthebadge](http://forthebadge.com/images/badges/compatibility-ie-6.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/compatibility-opera-4.svg)](http://forthebadge.com) 
 
