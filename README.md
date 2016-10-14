@@ -1,6 +1,6 @@
 # Eugene Duboviy's personal web page
 
-[![Build Status](https://travis-ci.org/duboviy/duboviy.github.io.svg?branch=master)](https://travis-ci.org/duboviy/duboviy.github.io) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d918b0c236c4489cb4a16272f77d292e)](https://www.codacy.com/app/dubovoy/duboviy-github-io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=duboviy/duboviy.github.io&amp;utm_campaign=Badge_Grade) [![GitHub version](https://badge.fury.io/gh/duboviy%2Fduboviy.github.io.svg)](http://badge.fury.io/gh/duboviy%2Fduboviy.github.io) [![Coverage Status](https://coveralls.io/repos/boennemann/badges/badge.svg)](https://coveralls.io/r/boennemann/badges) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Build Status](https://travis-ci.org/duboviy/duboviy.github.io.svg?branch=master)](https://travis-ci.org/duboviy/duboviy.github.io) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d918b0c236c4489cb4a16272f77d292e)](https://www.codacy.com/app/dubovoy/duboviy-github-io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=duboviy/duboviy.github.io&amp;utm_campaign=Badge_Grade) [![Coverage Status](https://coveralls.io/repos/boennemann/badges/badge.svg)](https://coveralls.io/r/boennemann/badges) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 https://duboviy.github.io/
 
